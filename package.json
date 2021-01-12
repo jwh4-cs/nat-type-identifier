@@ -12,6 +12,10 @@
     "stun": "^2.1.0"
   },
   "devDependencies": {},
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/jwh4-cs/nat-type-identifier.git"
+  },
   "keywords": [
     "stun",
     "nat type"
